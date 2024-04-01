@@ -1,5 +1,5 @@
 <div style="text-align:center;">
-  <img src="https://raw.githubusercontent.com/DiegoTorresMijarra/DiegoTorresMijarra/master/images/header.jpeg" alt="header" style="max-width: 300px">
+  <img src="https://raw.githubusercontent.com/DiegoTorresMijarra/DiegoTorresMijarra/master/images/banner.jpeg" alt="header" style="max-width: 300px">
 </div>
 
 ## 👋 Holaaa, mi nombre es Diego Torres Mijarra
