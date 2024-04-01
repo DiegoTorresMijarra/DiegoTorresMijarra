@@ -1,20 +1,18 @@
 <div style="text-align:center;">
-  <img src="https://raw.githubusercontent.com/DiegoTorresMijarra/DiegoTorresMijarra/master/header.jpeg" alt="header" style="max-width: 400px;">
+  <img src="https://raw.githubusercontent.com/DiegoTorresMijarra/DiegoTorresMijarra/master/images/header.jpeg" alt="header" style="max-width: 200px;">
 </div>
 
 ## 👋 Holaaa, mi nombre es Diego Torres Mijarra
 <hr>
+Soy alumno del grado de Desarrollo de Aplicaciones Web en el IES Luis Vives.
 
-### Contacto:
+Estoy dando mis primeros pasos en el mundo de la programación y tengo muchas ganas de aprender. A si que no tengas ningun problema en comentarme si hay algun error o problema 😉
 
-[![Correo Personal](https://img.shields.io/badge/Gmail-diegotorresmijarra%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:diegotorresmijarra@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego_Torres_Mijarra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/diego-torres-mijarra)
+Espero que te guste lo que encuentres 😊
 
 <hr>
 
 ### Tecnologias:
-Mis tecnologias preferidas son:
 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](#)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=101010)](#)
@@ -29,3 +27,10 @@ Mis tecnologias preferidas son:
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](#)
 [![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)](#)
+<hr>
+
+### Contacto:
+
+[![Correo Personal](https://img.shields.io/badge/Gmail-diegotorresmijarra%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:diegotorresmijarra@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego_Torres_Mijarra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/diego-torres-mijarra)
