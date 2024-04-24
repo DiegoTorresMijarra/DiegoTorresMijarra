@@ -40,7 +40,7 @@ Espero que te guste lo que encuentres 😊
 <td>
 
 [![html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000)](https://github.com/DiegoTorresMijarra/ExamenAngularDiegoTorresMijarra)
-[![css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000)](https://github.com/DiegoTorresMijarra/ExamenAngularDiegoTorresMijarra) <br> [![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=000)](https://github.com/DiegoTorresMijarra/MacJavaServer-Laravel) <br> [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=000)](https://github.com/DiegoTorresMijarra/ExamenAngularDiegoTorresMijarra) <br> [![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white&labelColor=000)](https://github.com/DiegoTorresMijarra/portfolio-diego-torres-mijarra)
+[![css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000)](https://github.com/DiegoTorresMijarra/ExamenAngularDiegoTorresMijarra) <br> [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=000)](https://github.com/DiegoTorresMijarra/ExamenAngularDiegoTorresMijarra) <br> [![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white&labelColor=000)](https://github.com/DiegoTorresMijarra/portfolio-diego-torres-mijarra)
 
 
 </td>
