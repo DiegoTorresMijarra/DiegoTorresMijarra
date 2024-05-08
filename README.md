@@ -3,10 +3,12 @@
 </div>
 
 ## 👋 Holaaa, mi nombre es Diego Torres Mijarra
+
 <hr>
 Soy alumno del grado de Desarrollo de Aplicaciones Web en el IES Luis Vives.
 
-Estoy dando mis primeros pasos en el mundo de la programación y tengo muchas ganas de aprender. A si que no tengas ningun problema en comentarme si hay algun error o problema 😉
+Estoy dando mis primeros pasos en el mundo de la programación y tengo muchas ganas de aprender. A si que no tengas
+ningun problema en comentarme si hay algun error o problema 😉
 
 Espero que te guste lo que encuentres 😊
 
@@ -34,7 +36,7 @@ Espero que te guste lo que encuentres 😊
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=000)](https://github.com/DiegoTorresMijarra/MacJavaServer-Laravel)
 <br>
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000)](https://github.com/DiegoTorresMijarra?tab=repositories&q=&type=&language=typescript&sort=)
-[![Nest](https://img.shields.io/badge/Nest-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=000)](https://github.com/DiegoTorresMijarra/MacJavaServer-Nest)  
+[![Nest](https://img.shields.io/badge/Nest-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=000)](https://github.com/DiegoTorresMijarra/MacJavaServer-Nest)
 
 </td>
 <td>
